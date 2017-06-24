@@ -5,7 +5,8 @@
   width: 100%;
   height: 35px;
   background-color: #173057;
-  .navbar-nav {
+}
+.navbar-nav {
    margin-left: 1028px;
    margin-top: 9px;
    font-size: 14px;
@@ -13,30 +14,31 @@
    text-align: right;
    color: #ffffff;
   }
-}
 
 .Rectangle {
   width: 100%;
   height: 75px;
   background-color: #ffffff;
-  .navbar-nav{
-    margin-left: 250px;
-    margin-top: 24px;
-    margin-bottom: 20px;
-   }
-   .nav1{
+}
+.nav1{
     margin-left: 300px;
     margin-top: 24px;
     margin-bottom: 20px;
-    .start{
+   
+  }
+ .start{
       margin-left: 40px;
       margin-top: 9px;
       font-size: 14px;
       text-align: center;
       color: #173057;
     }
-  }
-}
+.navbar-nav{
+    margin-left: 250px;
+    margin-top: 24px;
+    margin-bottom: 20px;
+   }
+
 .-Landing-FINAL {
   width: 100%;
   /*height: 6751px;*/
