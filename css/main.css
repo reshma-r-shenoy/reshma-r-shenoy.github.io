@@ -1,6 +1,8 @@
 /*Body*/
 
-
+.navbar-right{
+   margin-right: 15px !important;
+}
 .Rectangle-18 {
   width: 100%;
   height: 35px;
