@@ -477,21 +477,23 @@
   /*height: 606px;*/
   background-color: #298cf7;
 }
-
-.Home-mission {
-  padding-top: 43px;
+.Home-mission{
+  padding-top: 100px;
   padding-bottom: 100px;
   padding-left: 9% !important;
   padding-right: 9% !important;
+  height:800px;
 }
-
-.Home-founder {
-  padding-top: 43px;
+.Home-founder{
+  padding-top: 100px;
   padding-bottom: 70px;
   padding-left: 9% !important;
   padding-right: 9% !important;
   background-color: #ffffff;
+   height:800px;
+   padding-bottom: 100px;
 }
+
 
 .Our-Mission {
   /*width: 377px;*/
